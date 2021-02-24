@@ -6,4 +6,10 @@ public class FirstService
     {
         System.out.println("This is some method");
     }
+
+
+    public String firstMethod(int a)
+    {
+        return new String(String.valueOf(a));
+    }
 }
