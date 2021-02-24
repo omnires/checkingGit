@@ -1,6 +1,17 @@
 # Compiled class file
 *.class
 
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+HELP.md
+target/
+!**/src/main/**
+!**/src/test/**
+
 # Log file
 *.log
 
